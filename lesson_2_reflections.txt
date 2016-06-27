@@ -1,0 +1,2 @@
+To make commits so you can make a history of your changes.
+Making a group of changes in one commit
