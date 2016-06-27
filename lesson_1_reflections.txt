@@ -1,0 +1,6 @@
+Pros: You have a control over when to create a commit.
+Cons: You might miss a good point to creat a commit whiel working on it.
+Make it easier to control the files that are related.
+Just type git log and git diff
+You can keep track of what changes have made with git log so you don't have to worry about remembering them.
+I want to build my portfolio using Git.
