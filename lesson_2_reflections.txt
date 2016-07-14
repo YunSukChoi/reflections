@@ -1,2 +1,20 @@
-To make commits so you can make a history of your changes.
-Making a group of changes in one commit
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: It creates a new repository to keep track of changes you have made.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It makes a group of changes in one commit so you don't make unnecessary commits.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Compare the file you were working on to the file in workind directory
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: You can make multiple versions of your project in a more organized way
+
+Q: How do the diagrams help you visualize the branch structure?
+A: You can tell which is a parent and commit history
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Combines two separate changes into one easily
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: pros: You can easily merge two different projects. Cons: cannot resolve conflicts.
